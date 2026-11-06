@@ -1,2 +1,2 @@
 # *JobTalk-AI*
-Deployed app : https://jobtalk-ai-c35qeuqqjvbh7rtfcptiwd.streamlit.app/
+DEPLOY : [https://jobtalk-ai-c35qeuqqjvbh7rtfcptiwd.streamlit.app/](Click Here)
